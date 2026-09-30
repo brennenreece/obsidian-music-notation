@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-music-notation",
+	"name": "Music Notation",
+	"version": "0.1.0",
+	"minAppVersion": "0.15.0",
+	"description": "Render music notation and tablature (ABC notation) from text-based code blocks, with iOS support.",
+	"author": "brennenreece",
+	"authorUrl": "https://github.com/brennenreece",
+	"isDesktopOnly": false
+}

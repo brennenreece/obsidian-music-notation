@@ -1,0 +1,19 @@
+.music-notation-render {
+	background-color: var(--background-primary);
+	padding: 0.5em;
+	overflow-x: auto;
+}
+
+.music-notation-render svg {
+	max-width: 100%;
+	height: auto;
+}
+
+.music-notation-error {
+	color: var(--text-error);
+	font-family: var(--font-monospace);
+	white-space: pre-wrap;
+	padding: 0.5em;
+	border: 1px solid var(--text-error);
+	border-radius: 4px;
+}
