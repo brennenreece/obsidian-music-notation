@@ -1,0 +1,7 @@
+npm-debug.log
+node_modules
+main.js
+*.js.map
+data.json
+.hotreload
+.DS_Store
